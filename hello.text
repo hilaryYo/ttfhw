@@ -4,3 +4,6 @@
  */
 
 echo("hello, world");
+# you can also use alert
+# other notes on syntax for javascript include; always use a semicolon, it is case sensitive and is compiled.
+alert("hello world");
